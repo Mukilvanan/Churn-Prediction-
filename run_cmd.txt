@@ -1,0 +1,8 @@
+#train model 
+python churn_model.py
+
+#make app
+pip install streamlit
+#run app
+streamlit run app.py
+
